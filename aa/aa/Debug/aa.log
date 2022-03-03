@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Ahme_if16\source\repos\aa\aa\Source.cpp(349,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Ahme_if16\source\repos\aa\aa\Source.cpp(359,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  aa.vcxproj -> C:\Users\Ahme_if16\source\repos\aa\Debug\aa.exe

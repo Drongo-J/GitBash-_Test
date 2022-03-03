@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Ahme_if16\source\repos\Contanct Project Copy (C++)\Contanct Project Copy (C++)\Functions.h(78,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahme_if16\source\repos\Contanct Project Copy (C++)\Contanct Project Copy (C++)\Functions.h(448,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahme_if16\source\repos\Contanct Project Copy (C++)\Contanct Project Copy (C++)\Functions.h(466,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahme_if16\source\repos\Contanct Project Copy (C++)\Contanct Project Copy (C++)\Source.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Contanct Project Copy (C++).vcxproj -> C:\Users\Ahme_if16\source\repos\Contanct Project Copy (C++)\Debug\Contanct Project Copy (C++).exe

@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\Ahme_if16\source\repos\Lesson 9\Lesson 9\Source.cpp(216,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahme_if16\source\repos\Lesson 9\Lesson 9\Source.cpp(226,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Ahme_if16\source\repos\Lesson 9\Lesson 9\Source.cpp(239,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Ahme_if16\source\repos\Lesson 9\Lesson 9\Source.cpp(262,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahme_if16\source\repos\Lesson 9\Lesson 9\Source.cpp(278,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Ahme_if16\source\repos\Lesson 9\Lesson 9\Source.cpp(288,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lesson 9.vcxproj -> C:\Users\Ahme_if16\source\repos\Lesson 9\Debug\Lesson 9.exe

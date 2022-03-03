@@ -1,0 +1,11 @@
+﻿  Source.cpp
+C:\Users\Ahme_if16\source\repos\Lesson 13\Lesson 13\Source.cpp(108,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahme_if16\source\repos\Lesson 13\Lesson 13\Source.cpp(117,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahme_if16\source\repos\Lesson 13\Lesson 13\Source.cpp(127,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahme_if16\source\repos\Lesson 13\Lesson 13\Source.cpp(143,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahme_if16\source\repos\Lesson 13\Lesson 13\Source.cpp(159,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahme_if16\source\repos\Lesson 13\Lesson 13\Source.cpp(164,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ahme_if16\source\repos\Lesson 13\Lesson 13\Source.cpp(179,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Ahme_if16\source\repos\Lesson 13\Lesson 13\Source.cpp(189,10): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\Ahme_if16\source\repos\Lesson 13\Lesson 13\Source.cpp(176): warning C4715: 'addNumberIndex': not all control paths return a value
+  Lesson 13.vcxproj -> C:\Users\Ahme_if16\source\repos\Lesson 13\Debug\Lesson 13.exe
